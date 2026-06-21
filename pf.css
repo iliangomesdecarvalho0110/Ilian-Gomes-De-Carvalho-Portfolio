@@ -100,7 +100,5 @@ h2{
 }
 
 .a-droite a, .a-gauche a{
-  color: black;
-  text-decoration: none;
   font-weight: bold;
 }
